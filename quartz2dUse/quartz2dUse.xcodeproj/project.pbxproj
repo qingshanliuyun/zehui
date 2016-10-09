@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					C03C85FE1D1C21CA001AAD80 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = PBQBGL3PA2;
 					};
 					C03C86171D1C21CA001AAD80 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -415,6 +416,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PBQBGL3PA2;
 				INFOPLIST_FILE = quartz2dUse/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = qingshanliuyun.quartz2dUse;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PBQBGL3PA2;
 				INFOPLIST_FILE = quartz2dUse/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = qingshanliuyun.quartz2dUse;
@@ -498,6 +501,7 @@
 				C03C862E1D1C21CA001AAD80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C03C862F1D1C21CA001AAD80 /* Build configuration list for PBXNativeTarget "quartz2dUseTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +510,7 @@
 				C03C86311D1C21CA001AAD80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C03C86321D1C21CA001AAD80 /* Build configuration list for PBXNativeTarget "quartz2dUseUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +519,7 @@
 				C03C86341D1C21CA001AAD80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
